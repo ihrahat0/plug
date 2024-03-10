@@ -1,0 +1,11 @@
+{
+  "name": "Shiba The Plug",
+  "symbol": "PLUG",
+  "description": "Join the Mandem",
+  "image": "https://raw.githubusercontent.com/ihrahat0/dummy/main/plug-logo.png",
+  "extensions": {
+    "website": "https://shibatheplug.com",
+    "twitter": "https://twitter.com/shibatheplug",
+    "telegram": "https://t.me/ShibaThePlug"
+  }
+}
